@@ -1,0 +1,6 @@
+{
+"file":"arena2.png",
+"frames":{
+"ar_d2_png":{"x":304,"y":3,"w":150,"h":179,"offX":30,"offY":23,"sourceW":211,"sourceH":226},
+"ar_d3_png":{"x":3,"y":3,"w":150,"h":191,"offX":30,"offY":17,"sourceW":211,"sourceH":226},
+"ar_d5_png":{"x":157,"y":3,"w":143,"h":188,"offX":34,"offY":19,"sourceW":211,"sourceH":226}}}

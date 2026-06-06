@@ -1,0 +1,17 @@
+{
+"file":"gashapona0.png",
+"frames":{
+"btn_eg_a5_png":{"x":570,"y":81,"w":71,"h":71},
+"btn_eg_a6_cn_png":{"x":3,"y":110,"w":82,"h":95,"offX":0,"offY":1,"sourceW":82,"sourceH":96},
+"btn_eg_a7_png":{"x":444,"y":157,"w":180,"h":72,"offX":0,"offY":0,"sourceW":184,"sourceH":72},
+"btn_eg_a8_cn_png":{"x":304,"y":186,"w":136,"h":43,"offX":4,"offY":3,"sourceW":143,"sourceH":49},
+"btn_eg_a9_png":{"x":628,"y":156,"w":71,"h":71},
+"btn_eg_a10_cn_png":{"x":89,"y":110,"w":71,"h":89,"offX":0,"offY":1,"sourceW":71,"sourceH":90},
+"btn_eg_a11_png":{"x":386,"y":81,"w":180,"h":72,"offX":2,"offY":0,"sourceW":184,"sourceH":72},
+"btn_eg_a12_cn_png":{"x":164,"y":186,"w":136,"h":43,"offX":3,"offY":3,"sourceW":143,"sourceH":49},
+"eg_a13_png":{"x":3,"y":3,"w":191,"h":103,"offX":1,"offY":2,"sourceW":196,"sourceH":109},
+"eg_c1_png":{"x":198,"y":3,"w":226,"h":35},
+"eg_c2_png":{"x":444,"y":3,"w":264,"h":35},
+"eg_c4_png":{"x":198,"y":42,"w":226,"h":35},
+"eg_c5_png":{"x":444,"y":42,"w":264,"h":35},
+"eg_g2_cn_png":{"x":164,"y":110,"w":218,"h":72,"offX":0,"offY":0,"sourceW":254,"sourceH":72}}}

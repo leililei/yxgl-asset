@@ -1,0 +1,116 @@
+{
+    "mc": {
+        "liuguang1": {
+            "frames": [
+                {
+                    "duration": 1,
+                    "y": -49,
+                    "res": "Sprite_0",
+                    "x": -48
+                },
+                {
+                    "duration": 1,
+                    "y": -40,
+                    "res": "Sprite_1",
+                    "x": -48
+                },
+                {
+                    "duration": 1,
+                    "y": -25,
+                    "res": "Sprite_2",
+                    "x": -43
+                },
+                {
+                    "duration": 1,
+                    "y": -37,
+                    "res": "Sprite_3",
+                    "x": -41
+                },
+                {
+                    "duration": 1,
+                    "y": -50,
+                    "res": "Sprite_4",
+                    "x": -49
+                },
+                {
+                    "duration": 1,
+                    "y": -52,
+                    "res": "Sprite_5",
+                    "x": -47
+                },
+                {
+                    "duration": 1,
+                    "y": -52,
+                    "res": "Sprite_6",
+                    "x": -46
+                },
+                {
+                    "duration": 1,
+                    "y": -52,
+                    "res": "Sprite_7",
+                    "x": -48
+                }
+            ],
+            "labels": [
+                {
+                    "end": 8,
+                    "frame": 1,
+                    "name": "Sprite"
+                }
+            ],
+            "frameRate": 6,
+            "events": []
+        }
+    },
+    "file": "liuguang1_tex.png",
+    "res": {
+        "Sprite_7": {
+            "x": 1,
+            "y": 1,
+            "w": 88,
+            "h": 104
+        },
+        "Sprite_5": {
+            "x": 174,
+            "y": 174,
+            "w": 95,
+            "h": 76
+        },
+        "Sprite_1": {
+            "x": 191,
+            "y": 1,
+            "w": 79,
+            "h": 85
+        },
+        "Sprite_2": {
+            "x": 266,
+            "y": 88,
+            "w": 89,
+            "h": 70
+        },
+        "Sprite_6": {
+            "x": 1,
+            "y": 107,
+            "w": 89,
+            "h": 97
+        },
+        "Sprite_4": {
+            "x": 91,
+            "y": 1,
+            "w": 98,
+            "h": 88
+        },
+        "Sprite_0": {
+            "x": 92,
+            "y": 91,
+            "w": 80,
+            "h": 92
+        },
+        "Sprite_3": {
+            "x": 174,
+            "y": 91,
+            "w": 90,
+            "h": 81
+        }
+    }
+}

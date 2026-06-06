@@ -1,0 +1,7 @@
+{
+"file":"home111.png",
+"frames":{
+"sit11-1_png":{"x":3,"y":206,"w":109,"h":191,"offX":21,"offY":13,"sourceW":160,"sourceH":218},
+"sit11-2_png":{"x":116,"y":206,"w":109,"h":191,"offX":21,"offY":13,"sourceW":160,"sourceH":218},
+"turnaround11-1_png":{"x":3,"y":3,"w":109,"h":199,"offX":30,"offY":21,"sourceW":150,"sourceH":220},
+"turnaround11-2_png":{"x":116,"y":3,"w":109,"h":199,"offX":30,"offY":21,"sourceW":150,"sourceH":220}}}

@@ -1,0 +1,7 @@
+{
+"file":"clothingbuyh1.png",
+"frames":{
+"tp_a9_png":{"x":3,"y":128,"w":232,"h":31},
+"tp_a10_png":{"x":3,"y":93,"w":232,"h":31},
+"tp_b2_cn_png":{"x":3,"y":3,"w":387,"h":86,"offX":124,"offY":0,"sourceW":640,"sourceH":86},
+"tp_b6_cn_png":{"x":239,"y":93,"w":152,"h":48}}}

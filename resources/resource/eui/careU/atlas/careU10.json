@@ -1,0 +1,11 @@
+{
+"file":"careU10.png",
+"frames":{
+"ca_e1_png":{"x":153,"y":161,"w":135,"h":162,"offX":1,"offY":0,"sourceW":136,"sourceH":162},
+"ca_e2_png":{"x":153,"y":327,"w":135,"h":162,"offX":1,"offY":0,"sourceW":136,"sourceH":162},
+"ca_f1_png":{"x":3,"y":161,"w":146,"h":164,"offX":0,"offY":0,"sourceW":156,"sourceH":164},
+"ca_f2_png":{"x":3,"y":329,"w":146,"h":164,"offX":0,"offY":0,"sourceW":156,"sourceH":164},
+"ca_g1_png":{"x":3,"y":3,"w":151,"h":154,"offX":1,"offY":0,"sourceW":152,"sourceH":154},
+"ca_g2_png":{"x":158,"y":3,"w":151,"h":154,"offX":1,"offY":0,"sourceW":152,"sourceH":154},
+"ca_i1_png":{"x":292,"y":161,"w":114,"h":156,"offX":0,"offY":1,"sourceW":115,"sourceH":157},
+"ca_i2_png":{"x":292,"y":321,"w":114,"h":156,"offX":0,"offY":1,"sourceW":115,"sourceH":157}}}

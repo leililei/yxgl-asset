@@ -1,0 +1,12 @@
+{
+"file":"rechargea0.png",
+"frames":{
+"vp_d1_cn_png":{"x":331,"y":3,"w":126,"h":94},
+"vp_d3_cn_png":{"x":3,"y":3,"w":324,"h":128},
+"vp_d4_cn_png":{"x":3,"y":135,"w":324,"h":128},
+"vp_d5_cn_png":{"x":331,"y":101,"w":127,"h":39,"offX":15,"offY":0,"sourceW":155,"sourceH":39},
+"vp_d6_cn_png":{"x":331,"y":144,"w":127,"h":39,"offX":15,"offY":0,"sourceW":155,"sourceH":39},
+"vp_d7_cn_png":{"x":331,"y":187,"w":127,"h":39,"offX":15,"offY":0,"sourceW":155,"sourceH":39},
+"vp_d8_cn_png":{"x":331,"y":230,"w":127,"h":39,"offX":15,"offY":0,"sourceW":155,"sourceH":39},
+"vp_d9_cn_png":{"x":3,"y":267,"w":147,"h":27,"offX":33,"offY":14,"sourceW":213,"sourceH":56},
+"vp_d10_cn_png":{"x":154,"y":267,"w":140,"h":27,"offX":37,"offY":14,"sourceW":213,"sourceH":56}}}

@@ -1,0 +1,14 @@
+{
+"file":"birthdayl0.png",
+"frames":{
+"3qshy1_png":{"x":3,"y":171,"w":140,"h":160,"offX":2,"offY":3,"sourceW":145,"sourceH":165},
+"3qshy2_png":{"x":147,"y":171,"w":140,"h":160,"offX":2,"offY":3,"sourceW":145,"sourceH":165},
+"3qsmile1_png":{"x":291,"y":171,"w":140,"h":160,"offX":2,"offY":3,"sourceW":145,"sourceH":165},
+"3qsmile2_png":{"x":435,"y":171,"w":140,"h":160,"offX":2,"offY":3,"sourceW":145,"sourceH":165},
+"3qsmile3_png":{"x":3,"y":335,"w":140,"h":160,"offX":2,"offY":3,"sourceW":145,"sourceH":165},
+"3qsmile4_png":{"x":147,"y":335,"w":140,"h":160,"offX":2,"offY":3,"sourceW":145,"sourceH":165},
+"3qwink1_png":{"x":291,"y":335,"w":140,"h":160,"offX":2,"offY":3,"sourceW":145,"sourceH":165},
+"3qwink2_png":{"x":435,"y":335,"w":140,"h":160,"offX":2,"offY":3,"sourceW":145,"sourceH":165},
+"bd_j3_cn_png":{"x":3,"y":82,"w":535,"h":85},
+"bd_j4_cn_png":{"x":246,"y":3,"w":234,"h":75},
+"bd_j5_cn_png":{"x":3,"y":3,"w":239,"h":75}}}

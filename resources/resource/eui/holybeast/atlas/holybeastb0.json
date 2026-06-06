@@ -1,0 +1,10 @@
+{
+"file":"holybeastb0.png",
+"frames":{
+"btn_hb_x1_cn_png":{"x":490,"y":110,"w":113,"h":121},
+"btn_hb_x2_cn_png":{"x":607,"y":110,"w":113,"h":121},
+"btn_hb_x3_cn_png":{"x":372,"y":110,"w":114,"h":121},
+"hb_x5_cn_png":{"x":372,"y":3,"w":640,"h":103},
+"hb_x6_cn_png":{"x":3,"y":162,"w":248,"h":69,"offX":23,"offY":0,"sourceW":300,"sourceH":69},
+"hb_x8_cn_png":{"x":3,"y":3,"w":365,"h":155},
+"hb_x10_cn_png":{"x":724,"y":110,"w":145,"h":71,"offX":27,"offY":0,"sourceW":200,"sourceH":71}}}

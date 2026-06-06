@@ -1,0 +1,15 @@
+{
+"file":"abbaib0.png",
+"frames":{
+"abbaib_a1_cn_png":{"x":593,"y":155,"w":393,"h":89},
+"abbaib_a2_cn_png":{"x":3,"y":3,"w":637,"h":148},
+"abbaib_b1_cn_png":{"x":644,"y":3,"w":283,"h":41},
+"abbaib_b2_cn_png":{"x":644,"y":48,"w":97,"h":100,"offX":8,"offY":9,"sourceW":113,"sourceH":114},
+"abbaib_b3_cn_png":{"x":745,"y":48,"w":97,"h":99,"offX":8,"offY":10,"sourceW":113,"sourceH":114},
+"abbaib_c1_cn_png":{"x":3,"y":307,"w":283,"h":41},
+"abbaib_c2_cn_png":{"x":846,"y":48,"w":93,"h":92,"offX":0,"offY":9,"sourceW":93,"sourceH":104},
+"abbaib_c3_cn_png":{"x":593,"y":248,"w":93,"h":92,"offX":0,"offY":9,"sourceW":93,"sourceH":104},
+"abbaib_d1_cn_png":{"x":690,"y":248,"w":87,"h":89,"offX":1,"offY":1,"sourceW":88,"sourceH":92},
+"abbaib_d2_cn_png":{"x":781,"y":248,"w":87,"h":89,"offX":1,"offY":1,"sourceW":88,"sourceH":92},
+"abbaib_d3_cn_png":{"x":3,"y":352,"w":283,"h":41},
+"btn_abbaib_a9_cn_png":{"x":3,"y":155,"w":586,"h":148}}}

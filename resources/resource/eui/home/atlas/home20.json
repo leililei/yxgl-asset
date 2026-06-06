@@ -1,0 +1,12 @@
+{
+"file":"home20.png",
+"frames":{
+"cheek2-1_png":{"x":324,"y":183,"w":100,"h":194,"offX":17,"offY":21,"sourceW":150,"sourceH":220},
+"cheek2-2_png":{"x":209,"y":3,"w":98,"h":195,"offX":22,"offY":20,"sourceW":150,"sourceH":220},
+"sit2-1_png":{"x":219,"y":202,"w":101,"h":189,"offX":19,"offY":14,"sourceW":160,"sourceH":218},
+"sleep2_png":{"x":311,"y":3,"w":177,"h":176,"offX":12,"offY":13,"sourceW":205,"sourceH":206},
+"stand2-1_png":{"x":3,"y":3,"w":99,"h":195,"offX":19,"offY":20,"sourceW":150,"sourceH":220},
+"stand2-2_png":{"x":106,"y":3,"w":99,"h":195,"offX":19,"offY":20,"sourceW":150,"sourceH":220},
+"turnaround2-1_png":{"x":3,"y":202,"w":104,"h":193,"offX":35,"offY":22,"sourceW":150,"sourceH":220},
+"turnaround2-2_png":{"x":111,"y":202,"w":104,"h":193,"offX":35,"offY":22,"sourceW":150,"sourceH":220},
+"turnaround2-3_png":{"x":3,"y":3,"w":99,"h":195,"offX":19,"offY":20,"sourceW":150,"sourceH":220}}}

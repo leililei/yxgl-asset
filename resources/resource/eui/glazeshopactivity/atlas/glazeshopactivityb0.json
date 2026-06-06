@@ -1,0 +1,11 @@
+{
+"file":"glazeshopactivityb0.png",
+"frames":{
+"btn_la_a3_cn_png":{"x":3,"y":121,"w":180,"h":69,"offX":12,"offY":2,"sourceW":204,"sourceH":76},
+"btn_la_a4_cn_png":{"x":121,"y":3,"w":53,"h":104,"offX":18,"offY":3,"sourceW":89,"sourceH":110},
+"btn_la_a5_cn_png":{"x":187,"y":3,"w":63,"h":203,"offX":13,"offY":5,"sourceW":89,"sourceH":212},
+"btn_la_a6_cn_png":{"x":121,"y":3,"w":53,"h":104,"offX":18,"offY":3,"sourceW":89,"sourceH":110},
+"btn_la_a7_cn_png":{"x":254,"y":3,"w":63,"h":203,"offX":14,"offY":5,"sourceW":89,"sourceH":212},
+"btn_la_a8_cn_png":{"x":121,"y":3,"w":53,"h":104,"offX":18,"offY":3,"sourceW":89,"sourceH":110},
+"btn_la_a9_cn_png":{"x":321,"y":3,"w":63,"h":203,"offX":14,"offY":4,"sourceW":89,"sourceH":212},
+"la_a1_cn_png":{"x":3,"y":3,"w":114,"h":114,"offX":36,"offY":40,"sourceW":187,"sourceH":194}}}

@@ -1,0 +1,14 @@
+{
+"file":"birthdayi0.png",
+"frames":{
+"2ashy1_png":{"x":3,"y":3,"w":140,"h":134},
+"2ashy2_png":{"x":3,"y":141,"w":140,"h":134},
+"2asmile1_png":{"x":147,"y":3,"w":140,"h":134},
+"2asmile2_png":{"x":147,"y":141,"w":140,"h":134},
+"2asmile3_png":{"x":291,"y":89,"w":140,"h":134},
+"2asmile4_png":{"x":435,"y":89,"w":140,"h":134},
+"2awink1_png":{"x":579,"y":89,"w":140,"h":134},
+"2awink2_png":{"x":723,"y":89,"w":140,"h":134},
+"bd_i7_cn_png":{"x":291,"y":227,"w":239,"h":77,"offX":4,"offY":4,"sourceW":246,"sourceH":84},
+"bd_i8_cn_png":{"x":534,"y":227,"w":241,"h":76,"offX":3,"offY":4,"sourceW":246,"sourceH":84},
+"bd_i9_cn_png":{"x":291,"y":3,"w":519,"h":82,"offX":3,"offY":2,"sourceW":526,"sourceH":88}}}

@@ -1,0 +1,14 @@
+{
+"file":"eabda0.png",
+"frames":{
+"btn_eabda_a2_cn_png":{"x":564,"y":355,"w":93,"h":42},
+"btn_eabda_a3_cn_png":{"x":566,"y":401,"w":100,"h":100},
+"btn_eabda_a10_cn_png":{"x":564,"y":229,"w":151,"h":49},
+"btn_eabda_a11_cn_png":{"x":566,"y":505,"w":83,"h":89},
+"eabda_b2_cn_png":{"x":3,"y":3,"w":557,"h":397},
+"eabda_b3_cn_png":{"x":3,"y":404,"w":559,"h":299},
+"eabda_b5_png":{"x":3,"y":707,"w":559,"h":197},
+"eabda_b6_cn_png":{"x":564,"y":119,"w":355,"h":106,"offX":0,"offY":5,"sourceW":355,"sourceH":112},
+"eabda_b8_cn_png":{"x":564,"y":3,"w":360,"h":112},
+"eabda_b15_cn_png":{"x":564,"y":282,"w":129,"h":69},
+"eabda_b16_cn_png":{"x":566,"y":598,"w":129,"h":69}}}

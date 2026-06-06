@@ -1,0 +1,13 @@
+{
+"file":"costlyshop0.png",
+"frames":{
+"btn_cos_a1_png":{"x":841,"y":72,"w":141,"h":63},
+"btn_cos_a3_png":{"x":684,"y":183,"w":141,"h":58,"offX":0,"offY":0,"sourceW":141,"sourceH":63},
+"btn_cos_a7_png":{"x":841,"y":3,"w":159,"h":65},
+"btn_cos_a8_png":{"x":829,"y":183,"w":141,"h":58,"offX":0,"offY":0,"sourceW":141,"sourceH":63},
+"cos_a2_cn_png":{"x":197,"y":3,"w":640,"h":176},
+"cos_a4_png":{"x":3,"y":3,"w":190,"h":226},
+"cos_a5_png":{"x":292,"y":183,"w":207,"h":26},
+"cos_a9_png":{"x":618,"y":183,"w":62,"h":62},
+"cos_a10_png":{"x":3,"y":233,"w":611,"h":2},
+"cos_a11_cn_png":{"x":197,"y":183,"w":91,"h":38}}}

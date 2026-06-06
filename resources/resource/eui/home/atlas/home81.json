@@ -1,0 +1,9 @@
+{
+"file":"home81.png",
+"frames":{
+"bath8-1_png":{"x":3,"y":204,"w":131,"h":142,"offX":0,"offY":12,"sourceW":138,"sourceH":154},
+"bath8-2_png":{"x":138,"y":204,"w":131,"h":142,"offX":0,"offY":12,"sourceW":138,"sourceH":154},
+"cheek8-2_png":{"x":3,"y":3,"w":124,"h":197,"offX":3,"offY":20,"sourceW":150,"sourceH":220},
+"stand8-1_png":{"x":131,"y":3,"w":123,"h":197,"offX":3,"offY":20,"sourceW":150,"sourceH":220},
+"stand8-2_png":{"x":258,"y":3,"w":123,"h":197,"offX":3,"offY":20,"sourceW":150,"sourceH":220},
+"turnaround8-3_png":{"x":131,"y":3,"w":123,"h":197,"offX":3,"offY":20,"sourceW":150,"sourceH":220}}}

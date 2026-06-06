@@ -1,0 +1,12 @@
+{
+"file":"fairteama0.png",
+"frames":{
+"btn_fat_e1_cn_png":{"x":698,"y":3,"w":120,"h":127,"offX":0,"offY":1,"sourceW":120,"sourceH":128},
+"btn_fat_e2_cn_png":{"x":554,"y":3,"w":140,"h":40,"offX":1,"offY":3,"sourceW":141,"sourceH":45},
+"fat_e6_cn_png":{"x":3,"y":792,"w":312,"h":70,"offX":42,"offY":3,"sourceW":395,"sourceH":81},
+"fat_e7_cn_png":{"x":319,"y":792,"w":438,"h":64,"offX":11,"offY":0,"sourceW":584,"sourceH":71},
+"fat_e8_cn_png":{"x":3,"y":3,"w":547,"h":46,"offX":44,"offY":0,"sourceW":635,"sourceH":46},
+"fat_e10_png":{"x":494,"y":134,"w":346,"h":325},
+"fat_e11_png":{"x":494,"y":463,"w":346,"h":325},
+"fat_e12_png":{"x":3,"y":53,"w":487,"h":341},
+"fat_e13_png":{"x":3,"y":398,"w":487,"h":341}}}

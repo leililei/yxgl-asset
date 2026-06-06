@@ -1,0 +1,9 @@
+{
+"file":"gashaponb0.png",
+"frames":{
+"eg_i1_png":{"x":3,"y":142,"w":267,"h":38},
+"eg_i2_cn_png":{"x":3,"y":3,"w":223,"h":68,"offX":0,"offY":4,"sourceW":254,"sourceH":72},
+"eg_i3_cn_png":{"x":274,"y":143,"w":136,"h":43,"offX":3,"offY":2,"sourceW":143,"sourceH":49},
+"eg_i4_png":{"x":312,"y":3,"w":73,"h":136,"offX":0,"offY":3,"sourceW":75,"sourceH":140},
+"eg_i5_cn_png":{"x":230,"y":3,"w":78,"h":135,"offX":2,"offY":1,"sourceW":84,"sourceH":137},
+"eg_panel8_png":{"x":3,"y":75,"w":170,"h":37}}}

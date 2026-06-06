@@ -1,0 +1,14 @@
+{"file":"cm_office.png","frames":{
+"侧":{"x":77,"y":51,"w":22,"h":21,"offX":2,"offY":2,"sourceW":26,"sourceH":25},
+"主":{"x":77,"y":76,"w":22,"h":20,"offX":2,"offY":2,"sourceW":26,"sourceH":24},
+"妃":{"x":0,"y":52,"w":22,"h":21,"offX":2,"offY":2,"sourceW":26,"sourceH":25},
+"皇":{"x":78,"y":26,"w":22,"h":21,"offX":2,"offY":2,"sourceW":26,"sourceH":25},
+"后":{"x":26,"y":52,"w":22,"h":21,"offX":2,"offY":2,"sourceW":26,"sourceH":25},
+"常":{"x":52,"y":51,"w":21,"h":22,"offX":0,"offY":0,"sourceW":21,"sourceH":22},
+"答":{"x":27,"y":0,"w":23,"h":22,"offX":0,"offY":0,"sourceW":23,"sourceH":22},
+"应":{"x":0,"y":26,"w":22,"h":22,"offX":0,"offY":0,"sourceW":22,"sourceH":22},
+"在":{"x":54,"y":0,"w":23,"h":22,"offX":0,"offY":0,"sourceW":23,"sourceH":22},
+"贵":{"x":26,"y":26,"w":22,"h":22,"offX":2,"offY":2,"sourceW":26,"sourceH":26},
+"人":{"x":0,"y":0,"w":23,"h":22,"offX":2,"offY":2,"sourceW":27,"sourceH":26},
+"庶":{"x":52,"y":26,"w":22,"h":21,"offX":2,"offY":2,"sourceW":26,"sourceH":25},
+"嫔":{"x":81,"y":0,"w":23,"h":22,"offX":2,"offY":2,"sourceW":27,"sourceH":26}}}

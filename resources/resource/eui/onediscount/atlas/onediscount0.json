@@ -1,0 +1,13 @@
+{
+"file":"onediscount0.png",
+"frames":{
+"nys_a1_cn_png":{"x":399,"y":742,"w":444,"h":99},
+"nys_a2_cn_png":{"x":578,"y":845,"w":95,"h":37},
+"nys_a3_cn_png":{"x":399,"y":845,"w":60,"h":57},
+"nys_a4_cn_png":{"x":463,"y":845,"w":111,"h":50},
+"nys_a5_cn_png":{"x":640,"y":528,"w":78,"h":78},
+"nys_a6_cn_png":{"x":722,"y":528,"w":78,"h":78},
+"nys_b1_png":{"x":3,"y":742,"w":392,"h":161},
+"nys_b2_png":{"x":640,"y":3,"w":178,"h":260},
+"nys_b3_png":{"x":640,"y":267,"w":172,"h":257,"offX":3,"offY":0,"sourceW":178,"sourceH":260},
+"nys_bg_png":{"x":3,"y":3,"w":633,"h":735,"offX":0,"offY":1,"sourceW":633,"sourceH":736}}}

@@ -1,0 +1,11 @@
+{
+"file":"grandfeast0.png",
+"frames":{
+"btn_gf_d2_png":{"x":730,"y":3,"w":182,"h":61,"offX":24,"offY":19,"sourceW":230,"sourceH":94},
+"btn_gf_d3_png":{"x":200,"y":175,"w":146,"h":49,"offX":20,"offY":13,"sourceW":186,"sourceH":75},
+"gf_d6_png":{"x":3,"y":3,"w":188,"h":257,"offX":0,"offY":2,"sourceW":189,"sourceH":261},
+"gf_d7_png":{"x":200,"y":3,"w":526,"h":168,"offX":2,"offY":2,"sourceW":530,"sourceH":172},
+"gf_d11_png":{"x":350,"y":175,"w":454,"h":44,"offX":2,"offY":3,"sourceW":459,"sourceH":49},
+"gf_d12_png":{"x":195,"y":3,"w":1,"h":221},
+"gf_d15_png":{"x":195,"y":228,"w":21,"h":20,"offX":0,"offY":1,"sourceW":22,"sourceH":21},
+"gf_panel1_png":{"x":195,"y":252,"w":8,"h":8}}}

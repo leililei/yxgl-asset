@@ -1,0 +1,14 @@
+{
+"file":"birthdayj0.png",
+"frames":{
+"3shy1_png":{"x":3,"y":3,"w":115,"h":125},
+"3shy2_png":{"x":122,"y":3,"w":115,"h":125},
+"3smile1_png":{"x":241,"y":3,"w":115,"h":125},
+"3smile2_png":{"x":360,"y":3,"w":115,"h":125},
+"3smile3_png":{"x":479,"y":3,"w":115,"h":125},
+"3smile4_png":{"x":598,"y":3,"w":115,"h":125},
+"3wink1_png":{"x":717,"y":3,"w":115,"h":125},
+"3wink2_png":{"x":836,"y":3,"w":115,"h":125},
+"bd_f3_cn_png":{"x":3,"y":132,"w":519,"h":80,"offX":11,"offY":9,"sourceW":540,"sourceH":100},
+"bd_f4_cn_png":{"x":712,"y":132,"w":241,"h":75,"offX":5,"offY":0,"sourceW":250,"sourceH":75},
+"bd_f5_cn_png":{"x":526,"y":132,"w":182,"h":76,"offX":9,"offY":0,"sourceW":200,"sourceH":76}}}

@@ -1,0 +1,8 @@
+{
+"file":"home41.png",
+"frames":{
+"stand4-1_png":{"x":116,"y":3,"w":103,"h":189,"offX":21,"offY":28,"sourceW":150,"sourceH":220},
+"stand4-2_png":{"x":116,"y":196,"w":103,"h":189,"offX":21,"offY":28,"sourceW":150,"sourceH":220},
+"turnaround4-1_png":{"x":3,"y":3,"w":109,"h":189,"offX":30,"offY":28,"sourceW":150,"sourceH":220},
+"turnaround4-2_png":{"x":3,"y":196,"w":109,"h":189,"offX":30,"offY":28,"sourceW":150,"sourceH":220},
+"turnaround4-3_png":{"x":116,"y":3,"w":103,"h":189,"offX":21,"offY":28,"sourceW":150,"sourceH":220}}}

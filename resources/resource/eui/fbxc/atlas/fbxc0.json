@@ -1,0 +1,9 @@
+{
+"file":"fbxc0.png",
+"frames":{
+"fbxc_a2_cn_png":{"x":3,"y":40,"w":493,"h":91,"offX":0,"offY":1,"sourceW":493,"sourceH":93},
+"fbxc_a3_cn_png":{"x":3,"y":135,"w":493,"h":91,"offX":0,"offY":1,"sourceW":493,"sourceH":93},
+"fbxc_a4_cn_png":{"x":500,"y":40,"w":102,"h":48},
+"fbxc_a5_cn_png":{"x":500,"y":92,"w":102,"h":48},
+"fbxc_a15_png":{"x":3,"y":3,"w":613,"h":33},
+"fbxc_a16_cn_png":{"x":500,"y":144,"w":91,"h":39,"offX":1,"offY":0,"sourceW":94,"sourceH":40}}}

@@ -1,0 +1,15 @@
+{
+"file":"miner2.png",
+"frames":{
+"btn_mr_a2_cn_png":{"x":3,"y":182,"w":404,"h":335},
+"mr_b1_cn_png":{"x":3,"y":661,"w":584,"h":89,"offX":19,"offY":3,"sourceW":623,"sourceH":114},
+"mr_b2_cn_png":{"x":411,"y":327,"w":383,"h":118},
+"mr_b3_cn_png":{"x":3,"y":521,"w":554,"h":136,"offX":0,"offY":0,"sourceW":565,"sourceH":139},
+"mr_b4_png":{"x":411,"y":182,"w":391,"h":141,"offX":2,"offY":3,"sourceW":393,"sourceH":146},
+"mr_b8_cn_png":{"x":3,"y":754,"w":484,"h":69},
+"mr_b22_cn_png":{"x":3,"y":827,"w":379,"h":116,"offX":49,"offY":0,"sourceW":458,"sourceH":116},
+"mr_b23_cn_png":{"x":591,"y":449,"w":379,"h":116,"offX":49,"offY":0,"sourceW":458,"sourceH":116},
+"mr_b24_cn_png":{"x":591,"y":569,"w":379,"h":116,"offX":49,"offY":0,"sourceW":458,"sourceH":116},
+"mr_b25_cn_png":{"x":591,"y":689,"w":379,"h":116,"offX":49,"offY":0,"sourceW":458,"sourceH":116},
+"mr_b26_cn_png":{"x":491,"y":809,"w":379,"h":116,"offX":49,"offY":0,"sourceW":458,"sourceH":116},
+"mr_c3_png":{"x":3,"y":3,"w":640,"h":175}}}

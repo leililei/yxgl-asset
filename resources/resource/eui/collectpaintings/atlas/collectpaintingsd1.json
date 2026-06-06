@@ -1,0 +1,16 @@
+{
+"file":"collectpaintingsd1.png",
+"frames":{
+"btn_wl_a5_png":{"x":720,"y":106,"w":272,"h":89},
+"btn_wl_a57_cn_png":{"x":270,"y":347,"w":94,"h":82,"offX":13,"offY":19,"sourceW":120,"sourceH":120},
+"btn_wl_a58_cn_png":{"x":368,"y":347,"w":94,"h":82,"offX":13,"offY":19,"sourceW":120,"sourceH":120},
+"wl_a9_cn_png":{"x":3,"y":3,"w":630,"h":66},
+"wl_a19_cn_png":{"x":637,"y":3,"w":304,"h":99,"offX":65,"offY":11,"sourceW":434,"sourceH":120},
+"wl_a22_cn_png":{"x":3,"y":73,"w":383,"h":86,"offX":26,"offY":18,"sourceW":434,"sourceH":120},
+"wl_a49_png":{"x":3,"y":163,"w":235,"h":180,"offX":11,"offY":38,"sourceW":256,"sourceH":256},
+"wl_a50_png":{"x":242,"y":163,"w":235,"h":180,"offX":11,"offY":38,"sourceW":256,"sourceH":256},
+"wl_a51_png":{"x":481,"y":106,"w":235,"h":180,"offX":11,"offY":38,"sourceW":256,"sourceH":256},
+"wl_a53_cn_png":{"x":3,"y":347,"w":263,"h":79,"offX":90,"offY":4,"sourceW":434,"sourceH":96},
+"wl_a59_cn_png":{"x":720,"y":199,"w":255,"h":90,"offX":193,"offY":25,"sourceW":640,"sourceH":346},
+"wl_a60_cn_png":{"x":481,"y":293,"w":253,"h":98,"offX":194,"offY":20,"sourceW":640,"sourceH":346},
+"wl_a61_cn_png":{"x":738,"y":293,"w":252,"h":90,"offX":194,"offY":24,"sourceW":640,"sourceH":346}}}

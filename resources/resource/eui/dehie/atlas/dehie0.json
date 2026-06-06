@@ -1,0 +1,8 @@
+{
+"file":"dehie0.png",
+"frames":{
+"btn_dehie_a5_cn_png":{"x":238,"y":38,"w":253,"h":128,"offX":12,"offY":5,"sourceW":277,"sourceH":138},
+"dehie_a2_cn_png":{"x":238,"y":302,"w":138,"h":45,"offX":1,"offY":11,"sourceW":141,"sourceH":70},
+"dehie_a3_png":{"x":3,"y":38,"w":231,"h":320,"offX":1,"offY":1,"sourceW":233,"sourceH":323},
+"dehie_a4_cn_png":{"x":238,"y":170,"w":253,"h":128,"offX":12,"offY":5,"sourceW":277,"sourceH":138},
+"dehie_a6_png":{"x":3,"y":3,"w":528,"h":31,"offX":2,"offY":0,"sourceW":531,"sourceH":31}}}

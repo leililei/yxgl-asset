@@ -1,0 +1,12 @@
+{
+"file":"multiservera1.png",
+"frames":{
+"ms_13_cn_png":{"x":222,"y":395,"w":51,"h":48},
+"ms_14_cn_png":{"x":222,"y":447,"w":51,"h":48},
+"ms_a3_png":{"x":3,"y":440,"w":49,"h":58},
+"ms_b2_png":{"x":147,"y":395,"w":71,"h":105,"offX":6,"offY":0,"sourceW":80,"sourceH":106},
+"ms_c1_png":{"x":147,"y":314,"w":122,"h":77,"offX":61,"offY":28,"sourceW":208,"sourceH":129},
+"ms_c4_png":{"x":147,"y":220,"w":133,"h":90,"offX":56,"offY":21,"sourceW":208,"sourceH":129},
+"ms_e1_png":{"x":148,"y":3,"w":132,"h":213,"offX":12,"offY":7,"sourceW":147,"sourceH":220},
+"ms_e3_png":{"x":3,"y":216,"w":140,"h":220,"offX":3,"offY":0,"sourceW":147,"sourceH":220},
+"ms_e5_png":{"x":3,"y":3,"w":141,"h":209,"offX":6,"offY":1,"sourceW":147,"sourceH":220}}}

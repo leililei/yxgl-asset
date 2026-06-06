@@ -1,0 +1,16 @@
+{
+"file":"baixiaosi2.png",
+"frames":{
+"bxs_a6_cn_png":{"x":504,"y":72,"w":137,"h":26},
+"bxs_a7_cn_png":{"x":645,"y":72,"w":137,"h":26},
+"bxs_d2_cn_png":{"x":612,"y":3,"w":185,"h":65,"offX":3,"offY":0,"sourceW":191,"sourceH":65},
+"bxs_d6_cn_png":{"x":508,"y":102,"w":188,"h":60,"offX":0,"offY":5,"sourceW":191,"sourceH":65},
+"bxs_d7_cn_png":{"x":801,"y":3,"w":185,"h":65,"offX":3,"offY":0,"sourceW":191,"sourceH":65},
+"bxs_g3_png":{"x":235,"y":3,"w":178,"h":76},
+"bxs_g5_png":{"x":700,"y":102,"w":178,"h":50},
+"bxs_g9_png":{"x":3,"y":88,"w":310,"h":43},
+"bxs_h4_cn_png":{"x":317,"y":83,"w":183,"h":30},
+"bxs_j4_cn_png":{"x":3,"y":3,"w":228,"h":81},
+"bxs_j5_cn_png":{"x":417,"y":3,"w":191,"h":65},
+"bxs_panel23_png":{"x":3,"y":135,"w":318,"h":41},
+"bxs_panel29_png":{"x":325,"y":117,"w":179,"h":55}}}

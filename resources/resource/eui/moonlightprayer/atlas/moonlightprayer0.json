@@ -1,0 +1,13 @@
+{
+"file":"moonlightprayer0.png",
+"frames":{
+"btn_mlp_a20_png":{"x":309,"y":416,"w":272,"h":90,"offX":0,"offY":4,"sourceW":272,"sourceH":94},
+"mlp_a5_cn_png":{"x":3,"y":196,"w":302,"h":121,"offX":49,"offY":10,"sourceW":400,"sourceH":140},
+"mlp_a6_cn_png":{"x":3,"y":321,"w":302,"h":121,"offX":49,"offY":9,"sourceW":400,"sourceH":140},
+"mlp_a9_png":{"x":309,"y":196,"w":151,"h":216},
+"mlp_a10_png":{"x":468,"y":3,"w":226,"h":231},
+"mlp_a12_png":{"x":464,"y":238,"w":133,"h":133},
+"mlp_a13_cn_png":{"x":3,"y":3,"w":461,"h":189},
+"mlp_a18_cn_png":{"x":3,"y":446,"w":55,"h":55},
+"mlp_a19_png":{"x":113,"y":446,"w":62,"h":42,"offX":4,"offY":4,"sourceW":70,"sourceH":50},
+"mlp_panel1_png":{"x":62,"y":446,"w":47,"h":57}}}

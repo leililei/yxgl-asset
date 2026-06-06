@@ -1,0 +1,16 @@
+{
+"file":"birthdaye0.png",
+"frames":{
+"ashy1_png":{"x":3,"y":3,"w":164,"h":212,"offX":8,"offY":8,"sourceW":186,"sourceH":227},
+"ashy2_png":{"x":3,"y":219,"w":164,"h":212,"offX":8,"offY":8,"sourceW":186,"sourceH":227},
+"asmile1_png":{"x":171,"y":3,"w":164,"h":212,"offX":8,"offY":8,"sourceW":186,"sourceH":227},
+"asmile2_png":{"x":171,"y":219,"w":164,"h":212,"offX":8,"offY":8,"sourceW":186,"sourceH":227},
+"asmile3_png":{"x":339,"y":138,"w":164,"h":212,"offX":8,"offY":8,"sourceW":186,"sourceH":227},
+"asmile4_png":{"x":507,"y":138,"w":164,"h":212,"offX":8,"offY":8,"sourceW":186,"sourceH":227},
+"awink1_png":{"x":675,"y":138,"w":164,"h":212,"offX":8,"offY":8,"sourceW":186,"sourceH":227},
+"awink2_png":{"x":843,"y":138,"w":164,"h":212,"offX":8,"offY":8,"sourceW":186,"sourceH":227},
+"bd_i3_cn_png":{"x":429,"y":354,"w":235,"h":74},
+"bd_i4_cn_png":{"x":668,"y":354,"w":214,"h":70},
+"bd_i5_cn_png":{"x":339,"y":3,"w":535,"h":83},
+"bd_i6_cn_png":{"x":339,"y":354,"w":86,"h":86},
+"bd_i16_png":{"x":878,"y":3,"w":122,"h":131}}}

@@ -1,0 +1,9 @@
+{
+"file":"market0.png",
+"frames":{
+"btn_mk_a1_cn_png":{"x":217,"y":3,"w":47,"h":104,"offX":1,"offY":1,"sourceW":49,"sourceH":106},
+"btn_mk_a2_cn_png":{"x":268,"y":3,"w":47,"h":104,"offX":1,"offY":1,"sourceW":49,"sourceH":106},
+"btn_mk_a3_cn_png":{"x":319,"y":3,"w":47,"h":104,"offX":1,"offY":1,"sourceW":49,"sourceH":106},
+"btn_mk_a7_cn_png":{"x":370,"y":3,"w":47,"h":104,"offX":1,"offY":1,"sourceW":49,"sourceH":106},
+"mk_a4_png":{"x":421,"y":3,"w":549,"h":32},
+"mk_a5_cn_png":{"x":3,"y":3,"w":210,"h":105,"offX":0,"offY":0,"sourceW":210,"sourceH":107}}}

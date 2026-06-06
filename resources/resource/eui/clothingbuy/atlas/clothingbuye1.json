@@ -1,0 +1,9 @@
+{
+"file":"clothingbuye1.png",
+"frames":{
+"btn_px_a6_cn_png":{"x":265,"y":3,"w":156,"h":74,"offX":4,"offY":2,"sourceW":160,"sourceH":80},
+"px_a12_png":{"x":3,"y":3,"w":128,"h":128},
+"px_a13_png":{"x":135,"y":3,"w":126,"h":128,"offX":1,"offY":0,"sourceW":128,"sourceH":128},
+"px_b8_cn_png":{"x":3,"y":135,"w":162,"h":50,"offX":3,"offY":3,"sourceW":168,"sourceH":56},
+"px_b9_cn_png":{"x":169,"y":135,"w":162,"h":50,"offX":3,"offY":3,"sourceW":168,"sourceH":56},
+"px_b11_cn_png":{"x":265,"y":81,"w":103,"h":45,"offX":3,"offY":2,"sourceW":109,"sourceH":50}}}

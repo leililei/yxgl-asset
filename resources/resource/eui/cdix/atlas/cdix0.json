@@ -1,0 +1,8 @@
+{
+"file":"cdix0.png",
+"frames":{
+"btn_cdix_o1_cn_png":{"x":357,"y":833,"w":101,"h":102,"offX":3,"offY":3,"sourceW":108,"sourceH":108},
+"btn_cdix_o5_png":{"x":462,"y":833,"w":53,"h":93,"offX":0,"offY":3,"sourceW":56,"sourceH":102},
+"cdix_o1_cn_png":{"x":357,"y":3,"w":640,"h":201},
+"cdix_o3_png":{"x":3,"y":3,"w":350,"h":841,"offX":0,"offY":19,"sourceW":350,"sourceH":880},
+"cdix_o4_cn_png":{"x":357,"y":208,"w":639,"h":621}}}

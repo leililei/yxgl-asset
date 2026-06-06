@@ -1,0 +1,8 @@
+{
+"file":"cfbg0.png",
+"frames":{
+"btn_cfbg_a7_png":{"x":647,"y":146,"w":236,"h":69,"offX":20,"offY":14,"sourceW":275,"sourceH":96},
+"cfbg_a1_png":{"x":3,"y":3,"w":640,"h":295,"offX":0,"offY":5,"sourceW":640,"sourceH":300},
+"cfbg_a4_cn_png":{"x":647,"y":3,"w":359,"h":139,"offX":164,"offY":0,"sourceW":640,"sourceH":139},
+"cfbg_a5_png":{"x":3,"y":302,"w":630,"h":33,"offX":3,"offY":0,"sourceW":640,"sourceH":33},
+"cfbg_a6_png":{"x":887,"y":146,"w":72,"h":101}}}

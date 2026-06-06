@@ -1,0 +1,13 @@
+{
+"file":"miragea0.png",
+"frames":{
+"dbd_a1_cn_png":{"x":3,"y":3,"w":400,"h":100},
+"dbd_b1_cn_png":{"x":99,"y":152,"w":283,"h":41},
+"dbd_b2_cn_png":{"x":3,"y":107,"w":92,"h":85,"offX":0,"offY":3,"sourceW":92,"sourceH":91},
+"dbd_b3_cn_png":{"x":3,"y":196,"w":92,"h":85,"offX":0,"offY":3,"sourceW":92,"sourceH":91},
+"dbd_c1_cn_png":{"x":99,"y":107,"w":285,"h":41,"offX":3,"offY":0,"sourceW":292,"sourceH":41},
+"dbd_c2_cn_png":{"x":285,"y":197,"w":85,"h":76,"offX":6,"offY":0,"sourceW":97,"sourceH":76},
+"dbd_c3_cn_png":{"x":374,"y":197,"w":85,"h":76,"offX":6,"offY":0,"sourceW":97,"sourceH":76},
+"dbd_d1_cn_png":{"x":99,"y":197,"w":89,"h":83,"offX":0,"offY":2,"sourceW":89,"sourceH":87},
+"dbd_d2_cn_png":{"x":192,"y":197,"w":89,"h":83,"offX":0,"offY":2,"sourceW":89,"sourceH":87},
+"dbd_d3_cn_png":{"x":99,"y":284,"w":283,"h":41}}}

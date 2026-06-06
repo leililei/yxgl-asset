@@ -1,0 +1,7 @@
+{
+"file":"ebx0.png",
+"frames":{
+"btn_ebx_o1_cn_png":{"x":3,"y":829,"w":101,"h":102,"offX":3,"offY":3,"sourceW":108,"sourceH":108},
+"btn_ebx_o5_png":{"x":108,"y":829,"w":65,"h":102,"offX":4,"offY":19,"sourceW":69,"sourceH":122},
+"ebx_o1_cn_png":{"x":3,"y":3,"w":640,"h":199,"offX":0,"offY":2,"sourceW":640,"sourceH":201},
+"ebx_o4_cn_png":{"x":3,"y":206,"w":639,"h":619,"offX":0,"offY":0,"sourceW":639,"sourceH":621}}}

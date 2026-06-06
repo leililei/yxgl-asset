@@ -1,0 +1,8 @@
+{
+"file":"godluckyb2.png",
+"frames":{
+"btn_dml_a11_png":{"x":390,"y":3,"w":124,"h":124,"offX":1,"offY":1,"sourceW":125,"sourceH":125},
+"btn_dml_a12_png":{"x":518,"y":3,"w":124,"h":124,"offX":1,"offY":1,"sourceW":125,"sourceH":125},
+"btn_dml_a14_png":{"x":3,"y":3,"w":125,"h":124,"offX":0,"offY":1,"sourceW":125,"sourceH":125},
+"btn_dml_a15_png":{"x":132,"y":3,"w":125,"h":124,"offX":0,"offY":1,"sourceW":125,"sourceH":125},
+"btn_dml_a16_png":{"x":261,"y":3,"w":125,"h":124,"offX":0,"offY":1,"sourceW":125,"sourceH":125}}}

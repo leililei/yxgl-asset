@@ -1,0 +1,9 @@
+{
+"file":"gashapond0.png",
+"frames":{
+"eg_k2_cn_png":{"x":3,"y":45,"w":218,"h":72,"offX":0,"offY":0,"sourceW":254,"sourceH":72},
+"eg_k3_cn_png":{"x":3,"y":121,"w":136,"h":43,"offX":3,"offY":2,"sourceW":143,"sourceH":49},
+"eg_k5_cn_png":{"x":225,"y":45,"w":78,"h":135,"offX":2,"offY":1,"sourceW":84,"sourceH":137},
+"eg_k7_png":{"x":3,"y":3,"w":267,"h":38},
+"eg_k9_png":{"x":307,"y":44,"w":73,"h":136,"offX":0,"offY":3,"sourceW":75,"sourceH":140},
+"eg_panel21_png":{"x":274,"y":3,"w":106,"h":37}}}

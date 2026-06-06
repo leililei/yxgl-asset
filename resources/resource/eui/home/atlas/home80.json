@@ -1,0 +1,9 @@
+{
+"file":"home80.png",
+"frames":{
+"cheek8-1_png":{"x":289,"y":204,"w":121,"h":198,"offX":5,"offY":19,"sourceW":150,"sourceH":220},
+"sit8-1_png":{"x":193,"y":3,"w":128,"h":197,"offX":6,"offY":13,"sourceW":160,"sourceH":218},
+"sit8-2_png":{"x":325,"y":3,"w":128,"h":197,"offX":6,"offY":13,"sourceW":160,"sourceH":218},
+"sleep8_png":{"x":3,"y":3,"w":186,"h":176,"offX":2,"offY":19,"sourceW":205,"sourceH":206},
+"turnaround8-1_png":{"x":3,"y":183,"w":139,"h":198,"offX":8,"offY":19,"sourceW":150,"sourceH":220},
+"turnaround8-2_png":{"x":146,"y":204,"w":139,"h":198,"offX":8,"offY":19,"sourceW":150,"sourceH":220}}}

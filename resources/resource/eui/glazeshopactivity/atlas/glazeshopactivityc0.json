@@ -1,0 +1,11 @@
+{
+"file":"glazeshopactivityc0.png",
+"frames":{
+"btn_cjhc_a3_cn_png":{"x":3,"y":3,"w":204,"h":76},
+"btn_cjhc_a4_cn_png":{"x":157,"y":83,"w":57,"h":108,"offX":16,"offY":2,"sourceW":89,"sourceH":110},
+"btn_cjhc_a5_cn_png":{"x":3,"y":83,"w":73,"h":180,"offX":8,"offY":16,"sourceW":89,"sourceH":212},
+"btn_cjhc_a6_cn_png":{"x":80,"y":364,"w":57,"h":108,"offX":16,"offY":2,"sourceW":89,"sourceH":110},
+"btn_cjhc_a7_cn_png":{"x":3,"y":267,"w":73,"h":180,"offX":8,"offY":16,"sourceW":89,"sourceH":212},
+"btn_cjhc_a8_cn_png":{"x":141,"y":364,"w":57,"h":108,"offX":16,"offY":2,"sourceW":89,"sourceH":110},
+"btn_cjhc_a9_cn_png":{"x":80,"y":83,"w":73,"h":180,"offX":8,"offY":16,"sourceW":89,"sourceH":212},
+"cjhc_a1_cn_png":{"x":80,"y":267,"w":110,"h":93,"offX":20,"offY":48,"sourceW":187,"sourceH":194}}}

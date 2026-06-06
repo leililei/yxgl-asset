@@ -1,0 +1,12 @@
+{
+"file":"tameyearbeast00.png",
+"frames":{
+"tyb_b17_png":{"x":3,"y":3,"w":58,"h":24},
+"tyb_panel1_png":{"x":3,"y":68,"w":30,"h":25,"offX":0,"offY":0,"sourceW":30,"sourceH":26},
+"tyb_panel2_png":{"x":3,"y":97,"w":22,"h":15,"offX":4,"offY":5,"sourceW":30,"sourceH":26},
+"tyb_panel3_png":{"x":29,"y":106,"w":22,"h":15,"offX":4,"offY":5,"sourceW":30,"sourceH":26},
+"tyb_panel5_png":{"x":3,"y":31,"w":44,"h":33,"offX":0,"offY":2,"sourceW":44,"sourceH":36},
+"tyb_panel8_png":{"x":3,"y":116,"w":22,"h":15,"offX":4,"offY":5,"sourceW":30,"sourceH":26},
+"tyb_panel9_png":{"x":29,"y":125,"w":22,"h":15,"offX":4,"offY":5,"sourceW":30,"sourceH":26},
+"tyb_panel10_png":{"x":37,"y":68,"w":22,"h":15,"offX":4,"offY":5,"sourceW":30,"sourceH":26},
+"tyb_panel11_png":{"x":37,"y":87,"w":22,"h":15,"offX":4,"offY":5,"sourceW":30,"sourceH":26}}}

@@ -1,0 +1,152 @@
+{
+    "file": "fanwaixuanguan_tex.png",
+    "mc": {
+        "fanwaixuanguan": {
+            "labels": [
+                {
+                    "end": 11,
+                    "frame": 1,
+                    "name": "Sprite"
+                }
+            ],
+            "frameRate": 10,
+            "frames": [
+                {
+                    "res": "Sprite_0",
+                    "y": -25,
+                    "duration": 1,
+                    "x": -33
+                },
+                {
+                    "res": "Sprite_1",
+                    "y": -68,
+                    "duration": 1,
+                    "x": -42
+                },
+                {
+                    "res": "Sprite_2",
+                    "y": -72,
+                    "duration": 1,
+                    "x": -45
+                },
+                {
+                    "res": "Sprite_3",
+                    "y": -51,
+                    "duration": 1,
+                    "x": -46
+                },
+                {
+                    "res": "Sprite_4",
+                    "y": -34,
+                    "duration": 1,
+                    "x": -53
+                },
+                {
+                    "res": "Sprite_5",
+                    "y": -5,
+                    "duration": 1,
+                    "x": -51
+                },
+                {
+                    "res": "Sprite_6",
+                    "y": 10,
+                    "duration": 1,
+                    "x": -42
+                },
+                {
+                    "res": "Sprite_7",
+                    "y": 3,
+                    "duration": 1,
+                    "x": -33
+                },
+                {
+                    "res": "Sprite_8",
+                    "y": 6,
+                    "duration": 1,
+                    "x": -24
+                },
+                {
+                    "res": "Sprite_9",
+                    "y": -1,
+                    "duration": 1,
+                    "x": -27
+                },
+                {
+                    "res": "Sprite_10",
+                    "y": -19,
+                    "duration": 1,
+                    "x": -29
+                }
+            ],
+            "events": []
+        }
+    },
+    "res": {
+        "Sprite_9": {
+            "x": 436,
+            "y": 67,
+            "w": 59,
+            "h": 49
+        },
+        "Sprite_8": {
+            "x": 79,
+            "y": 166,
+            "w": 53,
+            "h": 43
+        },
+        "Sprite_7": {
+            "x": 1,
+            "y": 166,
+            "w": 76,
+            "h": 77
+        },
+        "Sprite_6": {
+            "x": 219,
+            "y": 142,
+            "w": 94,
+            "h": 73
+        },
+        "Sprite_5": {
+            "x": 325,
+            "y": 126,
+            "w": 102,
+            "h": 89
+        },
+        "Sprite_4": {
+            "x": 325,
+            "y": 1,
+            "w": 109,
+            "h": 123
+        },
+        "Sprite_3": {
+            "x": 219,
+            "y": 1,
+            "w": 104,
+            "h": 139
+        },
+        "Sprite_2": {
+            "x": 1,
+            "y": 1,
+            "w": 125,
+            "h": 163
+        },
+        "Sprite_1": {
+            "x": 128,
+            "y": 1,
+            "w": 89,
+            "h": 163
+        },
+        "Sprite_0": {
+            "x": 429,
+            "y": 126,
+            "w": 71,
+            "h": 120
+        },
+        "Sprite_10": {
+            "x": 436,
+            "y": 1,
+            "w": 62,
+            "h": 64
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+"file":"home31.png",
+"frames":{
+"cheek3-1_png":{"x":233,"y":3,"w":108,"h":187,"offX":16,"offY":28,"sourceW":150,"sourceH":220},
+"cheek3-2_png":{"x":116,"y":3,"w":113,"h":187,"offX":12,"offY":28,"sourceW":150,"sourceH":220},
+"sit3-2_png":{"x":345,"y":3,"w":97,"h":182,"offX":31,"offY":20,"sourceW":160,"sourceH":218},
+"stand3-1_png":{"x":3,"y":3,"w":109,"h":188,"offX":15,"offY":27,"sourceW":150,"sourceH":220},
+"turnaround3-3_png":{"x":3,"y":3,"w":109,"h":188,"offX":15,"offY":27,"sourceW":150,"sourceH":220}}}

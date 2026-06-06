@@ -1,0 +1,10 @@
+{
+"file":"gashaponc0.png",
+"frames":{
+"btn_eg_b6_cn_png":{"x":568,"y":3,"w":71,"h":89,"offX":0,"offY":1,"sourceW":71,"sourceH":90},
+"btn_eg_b7_cn_png":{"x":384,"y":3,"w":136,"h":41,"offX":3,"offY":5,"sourceW":143,"sourceH":49},
+"btn_eg_b8_png":{"x":3,"y":3,"w":181,"h":68,"offX":0,"offY":0,"sourceW":184,"sourceH":72},
+"btn_eg_b9_png":{"x":493,"y":48,"w":71,"h":71},
+"eg_b2_png":{"x":3,"y":75,"w":264,"h":35},
+"eg_b4_png":{"x":271,"y":52,"w":218,"h":35,"offX":4,"offY":0,"sourceW":226,"sourceH":35},
+"eg_g10_cn_png":{"x":188,"y":3,"w":192,"h":45,"offX":27,"offY":21,"sourceW":254,"sourceH":72}}}

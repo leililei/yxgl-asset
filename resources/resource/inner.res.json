@@ -1,0 +1,15 @@
+{
+	"groups": [],
+	"resources": [
+		{
+			"url": "assets/主界面.jpg",
+			"type": "image",
+			"name": "主界面_jpg"
+		},
+		{
+			"url": "assets/风之女.jpg",
+			"type": "image",
+			"name": "风之女_jpg"
+		}
+	]
+}

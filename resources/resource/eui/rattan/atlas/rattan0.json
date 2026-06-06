@@ -1,0 +1,10 @@
+{
+"file":"rattan0.png",
+"frames":{
+"ra_a1_png":{"x":3,"y":3,"w":483,"h":162,"offX":1,"offY":2,"sourceW":488,"sourceH":167},
+"ra_a2_png":{"x":3,"y":169,"w":264,"h":77,"offX":0,"offY":0,"sourceW":265,"sourceH":77},
+"ra_a4_png":{"x":271,"y":169,"w":287,"h":37},
+"ra_a6_cn_png":{"x":578,"y":95,"w":81,"h":87,"offX":1,"offY":1,"sourceW":83,"sourceH":88},
+"ra_a7_cn_png":{"x":490,"y":3,"w":88,"h":88,"offX":1,"offY":1,"sourceW":91,"sourceH":91},
+"ra_a8_cn_png":{"x":490,"y":95,"w":84,"h":68,"offX":8,"offY":5,"sourceW":98,"sourceH":78},
+"ra_a12_png":{"x":663,"y":3,"w":3,"h":229,"offX":0,"offY":1,"sourceW":3,"sourceH":230}}}

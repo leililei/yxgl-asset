@@ -1,0 +1,1 @@
+{"res":{"Sprite_1":{"x":139,"y":1,"w":124,"h":227},"Sprite_0":{"x":1,"y":1,"w":136,"h":209}},"file":"land_tex.png","mc":{"land":{"labels":[{"end":2,"frame":1,"name":"Sprite"}],"frameRate":12,"frames":[{"res":"Sprite_0","y":-96,"duration":1,"x":-61},{"res":"Sprite_1","y":-113,"duration":1,"x":-64}],"events":[]}}}

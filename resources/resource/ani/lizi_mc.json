@@ -1,0 +1,68 @@
+{
+    "res": {
+        "Sprite_3": {
+            "x": 1,
+            "y": 1,
+            "w": 106,
+            "h": 106
+        },
+        "Sprite_2": {
+            "x": 1,
+            "y": 109,
+            "w": 93,
+            "h": 93
+        },
+        "Sprite_1": {
+            "x": 96,
+            "y": 109,
+            "w": 60,
+            "h": 60
+        },
+        "Sprite_0": {
+            "x": 1,
+            "y": 204,
+            "w": 30,
+            "h": 28
+        }
+    },
+    "file": "lizi_tex.png",
+    "mc": {
+        "huanzjiesuan1": {
+            "frames": [
+                {
+                    "res": "Sprite_0",
+                    "y": -14,
+                    "duration": 2,
+                    "x": -15
+                },
+                {
+                    "res": "Sprite_1",
+                    "y": -30,
+                    "duration": 2,
+                    "x": -30
+                },
+                {
+                    "res": "Sprite_2",
+                    "y": -47,
+                    "duration": 2,
+                    "x": -46
+                },
+                {
+                    "res": "Sprite_3",
+                    "y": -53,
+                    "duration": 2,
+                    "x": -53
+                }
+            ],
+            "labels": [
+                {
+                    "end": 4,
+                    "frame": 2,
+                    "name": "Sprite"
+                }
+            ],
+            "frameRate": 30,
+            "events": []
+        }
+    }
+}

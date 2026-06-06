@@ -1,0 +1,13 @@
+{
+"file":"miragec0.png",
+"frames":{
+"flo_a1_cn_png":{"x":3,"y":233,"w":381,"h":90,"offX":10,"offY":0,"sourceW":400,"sourceH":100},
+"flo_b1_cn_png":{"x":3,"y":3,"w":283,"h":41},
+"flo_b2_cn_png":{"x":290,"y":3,"w":92,"h":91},
+"flo_b3_cn_png":{"x":386,"y":3,"w":92,"h":91},
+"flo_c1_cn_png":{"x":3,"y":48,"w":283,"h":41},
+"flo_c2_cn_png":{"x":290,"y":98,"w":92,"h":91},
+"flo_c3_cn_png":{"x":386,"y":98,"w":92,"h":91},
+"flo_d1_cn_png":{"x":3,"y":138,"w":92,"h":91},
+"flo_d2_cn_png":{"x":99,"y":138,"w":92,"h":91},
+"flo_d3_cn_png":{"x":3,"y":93,"w":283,"h":41}}}

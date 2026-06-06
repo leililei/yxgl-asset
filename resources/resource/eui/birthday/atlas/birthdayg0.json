@@ -1,0 +1,15 @@
+{
+"file":"birthdayg0.png",
+"frames":{
+"2hshy1_png":{"x":3,"y":3,"w":147,"h":188,"offX":2,"offY":2,"sourceW":151,"sourceH":194},
+"2hshy2_png":{"x":3,"y":195,"w":147,"h":188,"offX":2,"offY":2,"sourceW":151,"sourceH":194},
+"2hsmile1_png":{"x":154,"y":3,"w":147,"h":188,"offX":2,"offY":2,"sourceW":151,"sourceH":194},
+"2hsmile2_png":{"x":154,"y":195,"w":147,"h":188,"offX":2,"offY":2,"sourceW":151,"sourceH":194},
+"2hsmile3_png":{"x":305,"y":93,"w":147,"h":188,"offX":2,"offY":2,"sourceW":151,"sourceH":194},
+"2hsmile4_png":{"x":456,"y":93,"w":147,"h":188,"offX":2,"offY":2,"sourceW":151,"sourceH":194},
+"2hwink1_png":{"x":607,"y":93,"w":147,"h":188,"offX":2,"offY":2,"sourceW":151,"sourceH":194},
+"2hwink2_png":{"x":758,"y":93,"w":147,"h":188,"offX":2,"offY":2,"sourceW":151,"sourceH":194},
+"bd_d3_cn_png":{"x":305,"y":3,"w":515,"h":86,"offX":3,"offY":0,"sourceW":522,"sourceH":89},
+"bd_d4_cn_png":{"x":305,"y":285,"w":240,"h":76,"offX":3,"offY":3,"sourceW":247,"sourceH":83},
+"bd_d5_cn_png":{"x":549,"y":285,"w":182,"h":76,"offX":2,"offY":3,"sourceW":188,"sourceH":83},
+"bd_d6_cn_png":{"x":735,"y":285,"w":98,"h":42,"offX":2,"offY":1,"sourceW":103,"sourceH":45}}}

@@ -1,0 +1,8 @@
+{
+"file":"dagbc1.png",
+"frames":{
+"btn_dagbc_a34_png":{"x":3,"y":3,"w":198,"h":64,"offX":10,"offY":7,"sourceW":220,"sourceH":85},
+"btn_dagbc_b7_cn_png":{"x":3,"y":171,"w":100,"h":97,"offX":2,"offY":4,"sourceW":104,"sourceH":104},
+"btn_dagbc_h2_cn_png":{"x":107,"y":171,"w":137,"h":66},
+"dagbc_y1_png":{"x":3,"y":71,"w":108,"h":96,"offX":0,"offY":12,"sourceW":108,"sourceH":120},
+"dagbc_y3_png":{"x":115,"y":71,"w":108,"h":96,"offX":0,"offY":12,"sourceW":108,"sourceH":120}}}

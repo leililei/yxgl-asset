@@ -1,0 +1,11 @@
+{
+"file":"aaagif0.png",
+"frames":{
+"aaagif_a1_cn_png":{"x":3,"y":3,"w":128,"h":111,"offX":30,"offY":43,"sourceW":187,"sourceH":194},
+"btn_aaagif_a3_cn_png":{"x":3,"y":314,"w":179,"h":52,"offX":13,"offY":12,"sourceW":204,"sourceH":76},
+"btn_aaagif_a4_cn_png":{"x":186,"y":229,"w":56,"h":110,"offX":16,"offY":0,"sourceW":89,"sourceH":110},
+"btn_aaagif_a5_cn_png":{"x":67,"y":118,"w":60,"h":189,"offX":13,"offY":12,"sourceW":89,"sourceH":212},
+"btn_aaagif_a6_cn_png":{"x":198,"y":3,"w":55,"h":110,"offX":17,"offY":0,"sourceW":89,"sourceH":110},
+"btn_aaagif_a7_cn_png":{"x":135,"y":3,"w":59,"h":201,"offX":19,"offY":0,"sourceW":89,"sourceH":212},
+"btn_aaagif_a8_cn_png":{"x":198,"y":117,"w":55,"h":108,"offX":18,"offY":2,"sourceW":89,"sourceH":110},
+"btn_aaagif_a9_cn_png":{"x":3,"y":118,"w":60,"h":192,"offX":12,"offY":8,"sourceW":89,"sourceH":212}}}

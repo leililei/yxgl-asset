@@ -1,0 +1,11 @@
+{
+"file":"gchix1.png",
+"frames":{
+"btn_gchix_a9_cn_png":{"x":178,"y":644,"w":95,"h":120,"offX":10,"offY":4,"sourceW":112,"sourceH":124},
+"gchix_b3_cn_png":{"x":3,"y":644,"w":171,"h":161,"offX":0,"offY":0,"sourceW":171,"sourceH":162},
+"gchix_c2_bg_png":{"x":3,"y":3,"w":473,"h":637,"offX":84,"offY":17,"sourceW":640,"sourceH":689},
+"gchix_f3_png":{"x":277,"y":644,"w":183,"h":61},
+"gchix_g1_png":{"x":188,"y":768,"w":61,"h":61},
+"gchix_g3_png":{"x":277,"y":709,"w":183,"h":61},
+"gchix_h1_png":{"x":253,"y":774,"w":61,"h":61},
+"gchix_h3_png":{"x":3,"y":809,"w":181,"h":59}}}
